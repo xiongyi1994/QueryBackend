@@ -1,0 +1,5 @@
+node_modules
+sftp-config.json
+.DS_Store
+.nyc_output
+.vscode
